@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Robert\Documents\labs opengl\ProiectTocanRobert\main.cpp(38,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert\Documents\labs opengl\ProiectTocanRobert\main.cpp(39,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert\Documents\labs opengl\ProiectTocanRobert\main.cpp(299,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\Documents\labs opengl\ProiectTocanRobert\main.cpp(347,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\Documents\labs opengl\ProiectTocanRobert\main.cpp(431,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\Documents\labs opengl\ProiectTocanRobert\main.cpp(432,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\Documents\labs opengl\ProiectTocanRobert\main.cpp(436,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\Documents\labs opengl\ProiectTocanRobert\main.cpp(437,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\Documents\labs opengl\ProiectTocanRobert\main.cpp(438,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\Documents\labs opengl\ProiectTocanRobert\main.cpp(439,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ProiectTocanRobert.vcxproj -> C:\Users\Robert\Documents\labs opengl\ProiectTocanRobert\x64\Debug\ProiectTocanRobert.exe
